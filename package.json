@@ -1,0 +1,23 @@
+{
+  "name": "lab-practical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmishra23/Lab-Practical-End-term.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmishra23/Lab-Practical-End-term/issues"
+  },
+  "homepage": "https://github.com/devmishra23/Lab-Practical-End-term#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
